@@ -1,0 +1,7 @@
+.card-header{
+display: flex;
+}
+.mconbtn{
+    position: absolute;
+    right: 35px;
+}
